@@ -3,3 +3,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+.navbar {
+  background: #333;
+  color: #999;
+  display: flex;
+}
+.navbar ul {
+  display: block;
+  list-style: none;
+}
+.navbar ul li {
+  display: block;
+}
+.navbar ul li a {
+  color: #999;
+  text-decoration: none;
+}
